@@ -81,3 +81,21 @@ print(
 )
 
 print(
+    web3.is_connected()
+)
+
+print(
+    transaction["gas"]
+)
+
+print(
+    transaction["nonce"]
+)
+
+print(
+    len(raw)
+)
+
+print(
+    "Recorded"
+)
